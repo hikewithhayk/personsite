@@ -139,9 +139,7 @@ textarea {
   margin-bottom: 45px;
   margin-top: 45px;
 }
-h1 a:link {
-  color: black;
-}
+
 #masthead_landing{
   height: 367px;
   background-image: url("../img/background.jpg");
@@ -172,10 +170,12 @@ h1 a:link {
   width: 320px;
   height: 197px;
 }
+
 .footer {
   margin-top: 24px;
   margin-bottom: 24px;
 }
+
 .position_absolute{
   position: absolute;
 }
